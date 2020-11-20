@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>flipflop</title>
+</head>
+<body bgcolor="">
+<table border="0" width="100%"bgcolor="GREEN">
+    <tr>
+        <td align="center"> <img src="logo.png"></td>
+        <td><input type="text" placeholder="search for products"</td>
+        <th><font color="white">Login and signup</th></fond>
+       <th> <font color="white">more</th></font>
+        <td><img src="cart.jpg"</td>
+    </tr>
+</table>
+<table border="0" width="100%"bgcolor="white">
+    <tr>
+        <th width=12.5%>Fashion</th>
+        <th width=12.5%>Mobile</th>
+        <th width=12.5%>electronic</th>
+        <th width=12.5%>home</th>
+        <th width=12.5%>Pantry</th>
+        <th width=12.5%>Appliances</th>
+    </tr>
+  <table border="0" width="100%"bgcolor="white">
+    <tr>
+        <th width=12.5%><img src="fashion.jpg"></th>
+        <th width=12.5%><img src="mobile.jpg"></th>
+        <th width=12.5%><img src="electronics.jpg"></th>
+        <th width=12.5%><img src="home.jpg"></th>
+        <th width=12.5%><img src="pantry.jpg"></th>
+        <th width=12.5%><img src="appliances.jpg"></th>
+    </tr>
+   
+    
+</body>
+</html>
